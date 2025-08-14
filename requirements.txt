@@ -1,0 +1,12 @@
+datasets==4.0.0
+faiss==1.5.3
+huggingface_hub==0.34.3
+numpy==2.3.2
+pandas==2.3.1
+protobuf==6.31.1
+scikit_learn==1.7.1
+sentence_transformers==5.0.0
+torch==2.3.1
+tqdm==4.67.1
+transformers==4.54.1
+trectools==0.0.50
