@@ -5,7 +5,7 @@ To make the task more realistic (thus challenging), some questions may not have 
 
 # Data
 
-You can find both the official subtask data as well as external datasets used (i.e. TyDi, QuQA, HaQA, Jalalayn Tafseer). Pre-processing of these datasets can be found under: src\Utils
+You can find both the official subtask data as well as external datasets used (i.e. TyDi, QuQA, HaQA, Jalalayn Tafseer). Preprocess the external datasets using the scripts in `src/Utils/`
 
 # Official Runs
 
